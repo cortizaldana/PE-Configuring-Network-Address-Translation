@@ -1,12 +1,5 @@
 # PE-Configuring-Network-Address-Translation
 
-# Bridge Communication To The Outside
-
-- KVM machine has once NIC interface
-- I need to allow the traffic from all bridges to go out through that only interface
-- NAT will allow me to route the traffic out from the KVM Host through firewalld policies
-
-
 # Commands Issued To Configure NAT
 
 ```
