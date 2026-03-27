@@ -24,4 +24,4 @@ firewall-cmd --reload
 
 # Video 
 
-https://youtu.be/nHSCSD4VjfA
+<!-- Use LinkedIn post to direct to video -->
