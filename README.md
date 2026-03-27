@@ -22,3 +22,4 @@ firewall-cmd --policy=isl-to-public --add-masquerade --permanent
 firewall-cmd --reload
 ```
 
+# Video 
